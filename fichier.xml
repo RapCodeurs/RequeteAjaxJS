@@ -1,0 +1,38 @@
+<DEPARTMENT>
+    <CITY>
+        <NAME>Vernon</NAME>
+        <ZIP>27200</ZIP>
+        <ADRESS>30 rue des carreaux</ADRESS>
+        <DAY>03/05/23/</DAY>
+        <HOUR>14H00 - 18h00</HOUR>
+    </CITY>
+    <CITY>
+        <NAME>Gaillon</NAME>
+        <ZIP>27600</ZIP>
+        <ADRESS> 10 rue des joyeux</ADRESS>
+        <DAY>13/05/23/</DAY>
+        <HOUR>14H00 - 18h00</HOUR>
+    </CITY>
+    <CITY>
+        <NAME>Louviers</NAME>
+        <ZIP>27350</ZIP>
+        <ADRESS>60 avenue des vaches</ADRESS>
+        <DAY>08/05/23/</DAY>
+        <HOUR>14H00 - 18h00</HOUR>
+    </CITY>
+    <CITY>
+        <NAME>Gisors</NAME>
+        <ZIP>27420</ZIP>
+        <ADRESS>Rue Victor Leray</ADRESS>
+        <DAY>30/05/23/</DAY>
+        <HOUR>14H00 - 18h00</HOUR>
+    </CITY>
+    <CITY>
+        <NAME>Aubevoye</NAME>
+        <ZIP>27360</ZIP>
+        <ADRESS>Le Clos Maurice</ADRESS>
+        <DAY>23/05/23/</DAY>
+        <HOUR>14H00 - 18h00</HOUR>
+    </CITY>
+</DEPARTMENT>
+
